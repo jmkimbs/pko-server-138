@@ -1,0 +1,18 @@
+# Database
+Database
+
+# Config files
+AccountServer/AccountServer.cfg
+GameServer/GameServer.cfg
+GateServer/GateServer.cfg
+GroupServer/GroupServer.cfg
+*.cfg
+
+# Logs
+log
+log?
+log??
+logfile
+logfile?
+logfile??
+*.log
